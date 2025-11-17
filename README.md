@@ -16,4 +16,4 @@ telaLoginOriginal.jpeg
 
 telaLoginClonada.jpeg
 
-Cada tela possui seu próprio projeto em pasta separada.
+
